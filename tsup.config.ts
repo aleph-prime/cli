@@ -3,7 +3,7 @@ import { defineConfig } from 'tsup';
 export default defineConfig({
   entry: {
     'index': 'src/index.ts',
-    'bin/aleph': 'bin/aleph.ts',
+    'bin/aleph': 'src/bin/aleph.ts',
   },
   format: ['esm'],
   dts: true,
