@@ -125,7 +125,7 @@ Configuration is stored in `~/.config/aleph-cli/config.json` (Linux/macOS) or `%
 ## API Token
 
 Get your API token from the Aleph web console:
-1. Go to https://aleph.dev/console
+1. Go to https://aleph.bot/console
 2. Navigate to API Tokens
 3. Create a new token with required scopes
 
