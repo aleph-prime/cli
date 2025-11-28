@@ -1,0 +1,19 @@
+# Source files (dist is published)
+src/
+bin/
+tsup.config.ts
+tsconfig.json
+
+# Dev files
+*.log
+.DS_Store
+node_modules/
+coverage/
+.env*
+*.tsbuildinfo
+
+# Test files
+tests/
+__tests__/
+*.test.ts
+*.spec.ts
